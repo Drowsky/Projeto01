@@ -28,6 +28,7 @@ def especification(estoq, produto):
 def limpar_terminal():
     if os.name == 'nt':
         os.system('cls')
-    else:
+    else:   
         os.system('clear')
-        
+
+#Nova alteração na commit foi feita com sucesso, versão 2.0 rodando.
